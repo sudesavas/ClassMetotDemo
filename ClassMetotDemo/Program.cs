@@ -26,7 +26,7 @@ namespace ClassMetotDemo
 
             Customer customer4 = new Customer();
             customer4.Id = 18022020;
-            customer4.UserName = "SemirS";
+            customer4.UserName = "emirs.";
             customer4.job = "software developer";
             customer4.BirthYear = 1997;
 
