@@ -15,13 +15,13 @@ namespace ClassMetotDemo
             Customer customer2 = new Customer();
             customer2.Id = 121212;
             customer2.UserName = "minaysude";
-            customer2.job = "İç mimar";
+            customer2.job = "interior architect";
             customer2.BirthYear = 2001;
 
             Customer customer3 = new Customer();
             customer3.Id = 1515475;
             customer3.UserName = "sılasvs";
-            customer3.job = "Yöentici";
+            customer3.job = "Manager";
             customer3.BirthYear = 1998;
 
             Customer customer4 = new Customer();
